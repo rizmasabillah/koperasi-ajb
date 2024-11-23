@@ -45,9 +45,9 @@
                                             <li><a href="<?= base_url() ?>">Home</a></li>
                                             <li><a href="<?= base_url() ?>home/pengumuman">Pengumuman & Informasi</a></li>
                                             <li><a href="<?= base_url() ?>home/detail/12">Tentang Kami</a></li>
-                                            <li><a href="#">Anggota <i class="ti-angle-down"></i></a>
+                                            <li><a href="#">Login/Registrasi <i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
-                                                    <li><a href="<?= base_url() ?>auth/registerAnggota">Register</a></li>
+                                                    <li><a href="<?= base_url() ?>auth/registerAnggota">Registrasi</a></li>
                                                     <li><a href="<?= base_url() ?>auth/loginAnggota">Login</a></li>
                                                 </ul>
                                             </li>
@@ -58,7 +58,7 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="phone_num d-none d-xl-block">
-                                        <a href=""> <i class="fa fa-phone"></i> (0353) 882673</a>
+                                        <a href=""> <i class="fa fa-phone"></i> 0852 0177 9934 </a>
                                     </div>
                                 </div>
                             </div>

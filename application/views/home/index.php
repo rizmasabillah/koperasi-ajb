@@ -81,7 +81,7 @@
                             03
                         </span>
                         <h3>Mendapatkan Pinjaman</h3>
-                        <p>Setelah pengajuan pinjaman telah berhasil diverifikasi oleh tim kami, anda bisa pergi ke koperasi untuk mencairkan uang pinjaman yang telah disepakati bersama</p>
+                        <p>Setelah pengajuan pinjaman telah berhasil diverifikasi oleh tim kami, anda bisa pergi ke koperasi atau menunggu petugas datang untuk mencairkan uang pinjaman yang telah disepakati bersama</p>
                     </div>
                 </div>
             </div>

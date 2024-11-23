@@ -4,7 +4,7 @@
             <div class="login-form">
                 <form action="<?= base_url() ?>auth/prosesRegisterAnggota" method="POST">
                     <div class="form-group">
-                        <center><label style="font-weight: bold;">Register Anggota</label></center>
+                        <center><label style="font-weight: bold;">Registrasi Anggota</label></center>
                         <div class="login-logo">
                             <a href="<?= base_url() ?>">
                                 <img class="align-content" src="<?= base_url() ?>assets/datakoperasi/logo_koperasi.png" width="20%" alt="">
@@ -48,13 +48,13 @@
                             <a href="<?= base_url() ?>lupapassword/reset">Lupa Password?</a>
                         </label>
                     </div>
-                    <button type="submit" class="btn btn-success btn-flat m-b-30 m-t-30">Register <i class="fa fa-sign-in"></i></button>
+                    <button type="submit" class="btn btn-success btn-flat m-b-30 m-t-30">Registrasi <i class="fa fa-sign-in"></i></button>
                     <div class="register-link m-t-15 text-center">
                         <p>Login Sebagai Anggota?<a href="<?= base_url() ?>auth/loginAnggota"> Klik Disini!</a><br>
                             Login Sebagai Pegawai?<a href="<?= base_url() ?>auth/loginPegawai"> Klik Disini!</a></p>
                     </div>
                 </form>
-				<br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+			
 				
             </div>
         </div>

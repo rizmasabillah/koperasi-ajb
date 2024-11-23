@@ -11,7 +11,7 @@
                                 </a>
                             </div>
                             <p>
-                                Jl. Gajah Mada No.114<br> Sukorejo Lor, Sukorejo<br> Kec. Bojonegoro, Kabupaten Bojonegoro<br>Jawa Timur<br>62115
+                            Jl. Bhima II No. 03 RT 06 RW 08<br> Kutoharjo<br> Kabupaten Pati<br>Jawa Tengah<br>59118
                             </p>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
-                            Copyright &copy;<?= date('Y') ?> All rights reserved</a> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+                           
 							
                         </p>
                     </div>

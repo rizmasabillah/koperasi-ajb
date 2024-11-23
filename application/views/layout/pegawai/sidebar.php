@@ -61,7 +61,7 @@
                             <li><i class="menu-icon ti-layout-list-thumb-alt"></i><a href="<?= base_url() ?>pegawai/daftarPegawai">Daftar Pegawai</a></li>
                             <li><i class="menu-icon ti-plus"></i><a href="<?= base_url() ?>pegawai/tambahPegawaiBaru">Tambah Pegawai Baru</a></li>
                         </ul>
-                    </li>
+                    </li>a
                 <?php
                 }
                 ?>

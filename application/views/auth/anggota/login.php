@@ -32,7 +32,7 @@
                             Login Sebagai Pegawai?<a href="<?= base_url() ?>auth/loginPegawai"> Klik Disini!</a></p>
                     </div>
                 </form>
-				<br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+				
 				
             </div>
         </div>
